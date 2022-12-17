@@ -1,13 +1,13 @@
 # Predicting-Credit-Card-Fraud
 
 ### Overview
-* This project predicts which credit card transactions in the dataset are fraudulent using three classification algorithms and three synthetic balancing techniques. The three classifier algorithms we will train include:
+* This project predicts which credit card transactions in the dataset are fraudulent using three classification algorithms and three synthetic balancing techniques. The three classifier algorithms trained include:
   + Decision Tree, which uses a tree-like model of decisions to arrive at a classification prediction.
   + Naive Bayes, which uses Bayes' theorem to use probability to arrive at a classification prediction.
   + Linear Discriminant Analysis, which finds a linear combination of features that is then used to separate the classes and arrive at a classification prediction.
 
 ### Metric
-Since it is highly important to correctly classify fraudulent transaction, the most important performance measure for this fraud problem is the **recall**, which measures how complete our results are indicating the model captures more of the fraudulent transactions.
+Since it is highly important to correctly classify fraudulent transaction, the most important performance measure for this fraud problem is the **recall**, which measures how complete our results are.
 
 ### Outcome
 Because the data is highly imbalanced, containing just 1% of fraudulent transaction, balancing the data set is very important, hence using the unbalanced dataset gives the highest recall score, with the decison tree algorithm performing best.
