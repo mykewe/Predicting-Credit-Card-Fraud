@@ -17,8 +17,11 @@ Because the data is highly imbalanced, containing just 1% of fraudulent transact
 * creditcardfraud.csv is the dataset used, which is a subset of the dataset from sourced from https://www.kaggle.com/mlg-ulb/creditcardfraud, which includes anonymized credit card transactions.
 
 ### Notebook
-* Predicting Credit Card Fraud.ipynb is the jupyter nootbook containing 
+* Predicting Credit Card Fraud.ipynb is the jupyter nootbook containing:
  - Exploratoey Data Analysis
  - Data Balancing
  - Model Building
  - Model Evaluation
+
+#### Inspiration 
+This is a cousera project https://gb.coursera.org/projects/predicting-credit-fraud-with-r, which I have improved upon by creating reusable functions, thereby circumventing unnecessary code repetition.
