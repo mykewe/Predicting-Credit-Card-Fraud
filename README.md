@@ -6,6 +6,3 @@
   + Naive Bayes, which uses Bayes' theorem to use probability to arrive at a classification prediction.
   + Linear Discriminant Analysis, which finds a linear combination of features that is then used to separate the classes and arrive at a classification prediction.
 
-* Given that the objective is to evaluate the model performance of the three classifier algorithms and synthetic balancing techniques, we will not be thoroughly reviewing the model output, but rather will be focusing on the classification performance results.
-
-* Lets start by loading the R library packages that will be used in this project, which are the caret, corrplot, and smotefamily packages.
