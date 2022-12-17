@@ -6,3 +6,6 @@
   + Naive Bayes, which uses Bayes' theorem to use probability to arrive at a classification prediction.
   + Linear Discriminant Analysis, which finds a linear combination of features that is then used to separate the classes and arrive at a classification prediction.
 
+
+###Data set
+* creditcardfraud.csv is the dataset used, which is a subset of the dataset from sourced from https://www.kaggle.com/mlg-ulb/creditcardfraud, which includes anonymized credit card transactions.
